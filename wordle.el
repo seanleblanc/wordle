@@ -260,9 +260,6 @@
 ; Example usage.
 (wordle
  '(
-
-   "riots" "r.O.."
-   "adore" "..OrE"
-   "broke" ".RO.E"
+ ;; guess and mask pairs go here.
    )
  )
