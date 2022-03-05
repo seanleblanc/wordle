@@ -1,14 +1,14 @@
 # Wordle for Emacs
 
-A small program to help solve Wordle ()
+A small program to help solve [Wordle](https://www.nytimes.com/games/wordle/index.html).
 
 
-As well as clones, for example: wordleunlimited.com) 
+This can work just as well for Wordle clones, for example: [Wordle Unlimited](https://wordleunlimited.com) 
 
 
 ## Quick start
 
-Load file in Emacs, evaluate entire buffer. 
+Load file wordle.el in Emacs, then evaluate entire buffer. 
 
 Put a guess into Wordle, add guess + mask pair to list of guesses and masks, then evaluate wordle function (CTRL-e after wordle). In the results minibuffer, and also, in the Messages buffer, you will see a list of word candidates to continue playing.
 
