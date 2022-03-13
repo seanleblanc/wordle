@@ -10,7 +10,7 @@ This can work just as well for Wordle clones, for example: [Wordle Unlimited](ht
 
 Load file wordle.el in Emacs, then evaluate entire buffer. 
 
-Put a guess into Wordle, add guess + mask pair to list of guesses and masks, then evaluate wordle function (CTRL-e after wordle). In the results minibuffer, and also, in the Messages buffer, you will see a list of word candidates to continue playing.
+Put a guess into Wordle, add guess + mask pair to list of guesses and masks, then evaluate wordle function (CTRL-x CTRL-e after wordle). In the results minibuffer, and also, in the Messages buffer, you will see a list of word candidates to continue playing.
 
 ## Example
 
